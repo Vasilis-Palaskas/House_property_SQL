@@ -1,0 +1,2 @@
+# House_property_SQL
+The retail industry now heavily relies on data analytics tools to better estimate the prices of different properties.  Work on this project idea deals with analyzing the sales of house properties in a city of Australia. SQL Project Idea: First, use basic commands in SQL to get a feel of the scale of the numbers involved in the dataset.  After that, answer the questions mentioned below to learn more about the patterns in the dataset.
